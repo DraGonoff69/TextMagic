@@ -1,6 +1,8 @@
-{
+
+{  
   "homepage": "http://DraGonoff69.github.io/TextMagic",
-  "name": "textmagic",
+  "name": "textutils",
+
   "version": "0.1.0",
   "private": true,
   "dependencies": {
